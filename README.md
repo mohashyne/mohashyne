@@ -10,7 +10,10 @@
 
 * I am willing to work on free-lance projects, Remote Work and I love to contribute to open source projects 💡.
 
+* Check out my portfolio  [Portfolio](https://mohashyne.github.io/MSalyhu_portfolio/dist) 
+* email me @ [email](mailto:crystalbluetech@gmail.com) 📫
 * Connect with me on Linkedin 🎆 [Linkedin Profile](https://www.linkedin.com/in/muhammad-salihu-27467a165/) 🎇
+
 
 
 <p align="center">
