@@ -48,8 +48,8 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<span><b><center>Webpack</center></b></span> 
+<img height=65px src="https://png2.cleanpng.com/sh/ea31ab53ddd21e6b4ec889935c68dbf9/L0KzQYq3VME4N6FqjpH0aYP2gLBuTgdmaqFme902Y3BwgMb7hgIucZR0huU2c3PkfLLpjPUufpZojNH7LXf1ccHvifN0NaNqReluYoDkc7y0kCZoNZpoh9C2dILkfsT3ggJmdqUyed95LYDxd37qjPlxaaN5Rdh7ZT24c7OAWcg4OWE7e9M7Nz65QIm6VMY6OmI6TacAM0W8SIa3Usc5NqFzf3==/kisspng-webpack-computer-icons-scalable-vector-graphics-re-webpack-svg-icon-transparent-amp-png-clipart-fre-5cb7987106ca27.6083469215555359850278.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -58,8 +58,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+<span><b><center>Postman</center></b></span> 
+<img height=65px src="https://www.vhv.rs/dpng/d/571-5718602_transparent-ubuntu-logo-png-logo-postman-icon-png.png"> 
 </td>
 </tr>
 
@@ -89,8 +89,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=65px src="https://1000logos.net/wp-content/uploads/2020/08/Nginx-Symbol.jpg"> 
+<span><b><center>Redux</center></b></span> 
+<img height=65px src="https://d33wubrfki0l68.cloudfront.net/45ed46a4aa7300c35494e9fc23ff4c1f61f62ab7/b7c39/static/redux_logo_2-24410881e63c96340db17ec232dfd1bf.png"> 
 </td>
 
 <td align="center" width="20%">
