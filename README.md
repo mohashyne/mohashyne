@@ -6,7 +6,7 @@
 
 * I have done multiple projects ranging from the field of Devops , Web apps Penetration Testing .
 
-* I am currently brushing up my skills to Upgrade my knowledge on React, Redux and MangoDB .
+* I am currently brushing up my skills to Upgrade my knowledge on React, Redux, Python and MangoDB .
 
 * I am willing to work on free-lance projects, Remote Work and I love to contribute to open source projects 💡.
 
