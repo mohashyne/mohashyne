@@ -1,6 +1,6 @@
 <h1 align="center"> Hello There 👋 </h1>
 
-* I am [Muhammad Salihu](https://www.linkedin.com/in/muhammad-salihu-27467a165/)  😄. Currently I am a Software Development student at Microverse Inc. 🔭.
+* I am [Muhammad Salihu](https://www.linkedin.com/in/msalyhu)  😄. Currently I am a Software Development student at Microverse Inc. 🔭.
 
 * I have worked in the Telecommunication, Energy and Information Technology sectors.
 
