@@ -12,7 +12,7 @@
 
 * Check out my portfolio  [Here](https://mohashyne.github.io/MSalyhu_portfolio/dist) 
 * email me @ [crystalbluetech@gmail.com] 📫
-* Connect with me on Linkedin 🎆 [Linkedin Profile](https://www.linkedin.com/in/muhammad-salihu-27467a165/) 🎇
+* Connect with me on Linkedin 🎆 [Linkedin Profile](www.linkedin.com/in/msalyhu) 🎇
 
 
 
