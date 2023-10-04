@@ -85,7 +85,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Ruby-on-Rails</center></b></span> 
-<img height=65px src="https://images.app.goo.gl/JY4G16PV9tovpqhA8"> 
+<img height=65px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqt9lEXQFlhFMDx-kmDF4BVS3mlf_xn_TAQ&usqp=CAU"> 
 </td>
 
 <td align="center" width="20%">
