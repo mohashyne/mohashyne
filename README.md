@@ -84,8 +84,8 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+<span><b><center>Ruby-on-Rails</center></b></span> 
+<img height=65px src="https://images.app.goo.gl/JY4G16PV9tovpqhA8"> 
 </td>
 
 <td align="center" width="20%">
