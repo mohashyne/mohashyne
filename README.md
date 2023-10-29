@@ -36,8 +36,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<span><b><center>Render</center></b></span> 
+<img height=60px src="https://www.altcademy.com/blog/content/images/2022/08/in-less-than-10-minutes.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -49,7 +49,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Webpack</center></b></span> 
-<img height=65px src="https://png2.cleanpng.com/sh/ea31ab53ddd21e6b4ec889935c68dbf9/L0KzQYq3VME4N6FqjpH0aYP2gLBuTgdmaqFme902Y3BwgMb7hgIucZR0huU2c3PkfLLpjPUufpZojNH7LXf1ccHvifN0NaNqReluYoDkc7y0kCZoNZpoh9C2dILkfsT3ggJmdqUyed95LYDxd37qjPlxaaN5Rdh7ZT24c7OAWcg4OWE7e9M7Nz65QIm6VMY6OmI6TacAM0W8SIa3Usc5NqFzf3==/kisspng-webpack-computer-icons-scalable-vector-graphics-re-webpack-svg-icon-transparent-amp-png-clipart-fre-5cb7987106ca27.6083469215555359850278.png"> 
+<img height=65px src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -85,7 +85,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Ruby-on-Rails</center></b></span> 
-<img height=65px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqt9lEXQFlhFMDx-kmDF4BVS3mlf_xn_TAQ&usqp=CAU"> 
+<img height=65px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"> 
 </td>
 
 <td align="center" width="20%">
