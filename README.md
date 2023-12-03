@@ -1,17 +1,17 @@
 <h1 align="center"> Hello There 👋 </h1>
 
-* I am [Muhammad Salihu](https://www.linkedin.com/in/msalyhu)  😄. Currently I am a Software Development student at Microverse Inc. 🔭.
+* I am [Muhammad Salihu](https://www.linkedin.com/in/msalyhu)  😄. Currently, I am a Software Developer at Crystal Blue Tech. 🔭.
 
-* I have worked in the Telecommunication, Energy and Information Technology sectors.
+* I have worked in the Telecommunication, Energy, and Information Technology sectors.
 
-* I have done multiple projects ranging from the field of Devops , Web apps Penetration Testing .
+* I have done multiple projects ranging from the field of DevOps to web app and Penetration Testing.
 
-* I am currently brushing up my skills to Upgrade my knowledge on React, Redux, Python and MangoDB .
+* I am currently brushing up my skills to Upgrade my knowledge of React, Redux, Ruby, Rails, and SQL.
 
-* I am willing to work on free-lance projects, Remote Work and I love to contribute to open source projects 💡.
+* I am willing to work on freelance projects, Remote Work and I love to contribute to open-source projects 💡.
 
 * Check out my portfolio  [Here](https://mohashyne.github.io/MSalyhu_portfolio/dist) 
-* email me @ [crystalbluetech@gmail.com] 📫
+* Email me @ [crystalbluetech@gmail.com] 📫
 * Connect with me on Linkedin 🎆 [Linkedin Profile](https://www.linkedin.com/in/msalyhu/) 🎇
 
 
