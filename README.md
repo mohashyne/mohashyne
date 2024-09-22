@@ -102,6 +102,7 @@
 </tbody>
 </table>
 
+-----------------------------------------------------------|
 # 🌐 SOC Analyst
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo-name)
