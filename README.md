@@ -102,7 +102,7 @@
 </tbody>
 </table>
 
-# 🌐 SOC Analyst Role
+# 🌐 SOC Analyst
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo-name)
 ![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
