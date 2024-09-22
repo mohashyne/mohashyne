@@ -102,6 +102,88 @@
 </tbody>
 </table>
 
+# 🌐 SOC Analyst Role
+
+![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo-name)
+![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
+![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo-name?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/your-username/your-repo-name)
+![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name)
+
+## 🛡️ Overview
+
+As a **Security Operations Center (SOC) Analyst**, I will be responsible for continuously monitoring, detecting, and responding to cybersecurity incidents to protect the organization's IT infrastructure from potential threats.
+
+---
+
+## 🚀 Key Responsibilities
+
+### 🔍 **Monitoring and Analysis**
+- Continuously monitor logs, security alerts, and events across systems to detect potential threats.
+- Analyze data to spot suspicious or malicious activities.
+
+### 🛡️ **Incident Detection and Response**
+- Detect and respond to security incidents, including unauthorized access, malware, and breaches.
+- Perform initial triage, contain threats, and mitigate damage.
+
+### 🧠 **Threat Intelligence**
+- Stay updated with the latest cyber threats and vulnerabilities.
+- Use threat intelligence to proactively identify potential risks.
+
+### 🕵️ **Forensic Investigation**
+- Investigate breaches, find the root cause, and document the method of attack.
+- Preserve evidence for further investigation and follow-up.
+
+### 🛠️ **Security System Maintenance**
+- Ensure the effectiveness of security systems, including firewalls and intrusion detection systems.
+- Regularly update security configurations to stay ahead of threats.
+
+### 🚨 **Incident Reporting and Documentation**
+- Create detailed reports on incidents and response measures.
+- Communicate findings to stakeholders for informed decision-making.
+
+### ⚙️ **Collaboration**
+- Work with IT and cybersecurity teams to improve the overall security posture.
+- Participate in security drills, simulations, and incident response testing.
+
+---
+
+## 🔧 Technologies & Tools
+
+| Tool/Technology    | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| ![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-ffaa33?logo=elasticsearch&logoColor=white) | Elastic Stack for log aggregation and monitoring. |
+| ![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white)                | Kibana for visualizing security data.              |
+| ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078d4?logo=windows&logoColor=white) | Windows Server with RDP for remote management.     |
+| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)                | Ubuntu Server with SSH for secure access.          |
+| ![Fleet](https://img.shields.io/badge/Fleet-00c853?logo=fleet&logoColor=white)                   | Fleet for managing endpoints and agents.           |
+| ![OS Ticket](https://img.shields.io/badge/OS%20Ticket-f39c12?logo=os-ticket&logoColor=white)     | OS Ticket for handling support requests and alerts.|
+| ![Vultr](https://img.shields.io/badge/Vultr-007bff?logo=vultr&logoColor=white)                   | Vultr for cloud server provisioning.               |
+
+---
+
+## 📊 Architecture
+
+Here is a simple diagram representing the environment I will be working on:
+
+![SOC Analyst Architecture](https://your-diagram-link-here.com)
+
+---
+
+## 💡 Learnings
+
+- Understanding VPC (Virtual Private Cloud) and secure server communications.
+- How to monitor, analyze, and respond to threats effectively.
+- Practical experience with cloud services, network segmentation, and security tools.
+
+---
+
+## 💻 Contributing
+
+Feel free to **fork** this repository and submit a **pull request** if you want to contribute. For any questions or suggestions, [open an issue](https://github.com/your-username/your-repo-name/issues).
+
+---
+
 
 ## My Certifications ⬇️
 
