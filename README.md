@@ -164,7 +164,7 @@ As a **Security Operations Center (SOC) Analyst**, I offer continuous monitoring
 
 | **Skill Set**                        | **Project Name**               | **Project Link**                                |
 |--------------------------------------|-------------------------------|------------------------------------------------|
-| Penetration Testing, Network Analysis | TCN Network Analysis           | [Link to project](https://github.com/user/tcn-network-analysis) |
+| Penetration Testing, Network Analysis | Network Penetration Testing           | [Link to project](https://github.com/user/tcn-network-analysis) |
 | Incident Response, Malware Analysis   | Malware Threat Response        | [Link to project](https://github.com/user/malware-threat-response) |
 | Digital Forensics, Attack Investigation | DFIR Analysis Toolkit         | [Link to project](https://github.com/user/dfir-analysis-toolkit) |
 | Threat Intelligence, Vulnerability Scanning | SOC Threat Intelligence      | [Link to project](https://github.com/user/soc-threat-intelligence) |
