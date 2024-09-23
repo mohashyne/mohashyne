@@ -4,18 +4,22 @@
 
 * I have worked in the Telecommunication, Energy, and Information Technology sectors.
 
-* I have done multiple projects ranging from the field of DevOps to web app and Penetration Testing.
+* I have done multiple projects ranging from the field of DevOps to web app development, Penetration Testing, and SOC analysis.
 
-* I am currently brushing up my skills to Upgrade my knowledge of React, Redux, Ruby, Rails, and SQL.
+* My penetration testing experience complements my skills in SOC analysis, as it helps me understand how attackers exploit vulnerabilities. This insight allows me to identify, 
+  analyze, and respond to security threats effectively.
+
+* I am currently brushing up my skills to upgrade my knowledge of React, Redux, Ruby, Rails, SQL, and Cybersecurity, including enhancing my SOC analysis capabilities with 
+  hands-on penetration testing techniques.
 
 * I am willing to work on freelance projects, Remote Work and I love to contribute to open-source projects 💡.
 
-* Check out my portfolio  [Here](https://mohashyne.github.io/MSalyhu_portfolio/dist) 
+* Check out my portfolio  [Here](https://msalyhu.onrender.com) 
 * Email me @ [crystalbluetech@gmail.com] 📫
 * Connect with me on Linkedin 🎆 [Linkedin Profile](https://www.linkedin.com/in/msalyhu/) 🎇
 
 
-
+## GitHub Project Stats ( Software Developer )
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mohashyne&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mohashyne&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
@@ -102,10 +106,14 @@
 </tbody>
 </table>
 
+
+
+
+
 -----------------------------------------------------------|
 # 🌐 SOC Analyst
 
-## 📈 GitHub Project Stats
+## 📈 GitHub Project Stats ( Cybersecurity )
 
 | **Repository**               | **Commits**                                                                 | **Size**                                                                 | **Contributors**                                                           | **Forks**                                                                 |
 |------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -200,6 +208,8 @@ Here is a simple diagram representing the environment I have worked on:
 Feel free to **fork** this repository and submit a **pull request** if you want to contribute. For any questions or suggestions, [open an issue](https://github.com/mohashyne/SOC-Analyst-MyDFIR/issues).
 
 ---
+
+
 
 
 ## My Certifications ⬇️
