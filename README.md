@@ -125,7 +125,7 @@
 
 ## 🛡️ Overview
 
-As a **Security Operations Center (SOC) Analyst**, I will be responsible for continuously monitoring, detecting, and responding to cybersecurity incidents to protect the organization's IT infrastructure from potential threats.
+As a **Security Operations Center (SOC) Analyst**, I offer continuous monitoring, threat detection, and rapid response to cybersecurity incidents. My services include investigating breaches, improving security systems, and collaborating with your team to safeguard your IT infrastructure from potential threats. I also provide forensic investigation and incident management to ensure quick threat resolution and long-term security improvements.
 
 ---
 # 🚀 Key Skills
