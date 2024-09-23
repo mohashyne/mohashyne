@@ -183,6 +183,12 @@ As a **Security Operations Center (SOC) Analyst**, I offer continuous monitoring
 | ![Fleet](https://img.shields.io/badge/Fleet-00c853?logo=fleet&logoColor=white)                   | Fleet for managing endpoints and agents.           |
 | ![OS Ticket](https://img.shields.io/badge/OS%20Ticket-f39c12?logo=os-ticket&logoColor=white)     | OS Ticket for handling support requests and alerts.|
 | ![Vultr](https://img.shields.io/badge/Vultr-007bff?logo=vultr&logoColor=white)                   | Vultr for cloud server provisioning.               |
+| ![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)                | Splunk for log management and threat analysis.     |
+| ![Metasploit](https://img.shields.io/badge/Metasploit-29a329?logo=metasploit&logoColor=white)    | Metasploit for penetration testing and exploit development. |
+| ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff5722?logo=burp-suite&logoColor=white)  | Burp Suite for web vulnerability scanning and security testing. |
+| ![Maltego](https://img.shields.io/badge/Maltego-0088cc?logo=maltego&logoColor=white)             | Maltego for data mining and link analysis.         |
+| ![Netsparker](https://img.shields.io/badge/Netsparker-fd7e14?logo=netsparker&logoColor=white)    | Netsparker for automated web application security scanning. |
+| ![Nmap](https://img.shields.io/badge/Nmap-4682b4?logo=nmap&logoColor=white)                      | Nmap for network discovery and security auditing.  |
 
 ---
 
