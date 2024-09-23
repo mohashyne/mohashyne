@@ -105,11 +105,11 @@
 -----------------------------------------------------------|
 # 🌐 SOC Analyst
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo-name)
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo-name?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/your-repo-name)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name)
+![GitHub repo size](https://img.shields.io/github/repo-size/mohashyne/SOC-Analyst-MyDFIR)
+![GitHub stars](https://img.shields.io/github/stars/mohashyne/SOC-Analyst-MyDFIR?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mohashyne/SOC-Analyst-MyDFIR?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/mohashyne/SOC-Analyst-MyDFIR)
+![GitHub last commit](https://img.shields.io/github/last-commit/mohashyne/SOC-Analyst-MyDFIR)
 
 ## 🛡️ Overview
 
@@ -168,7 +168,7 @@ As a **Security Operations Center (SOC) Analyst**, I will be responsible for con
 Here is a simple diagram representing the environment I have worked on:
 
 ![SOC Analyst Architecture](https://drive.google.com/file/d/1QwWe2EdTNhF5jLPcPG174jduhWXmOdoO/view?usp=drive_link)
-<img height=300px src="https://drive.google.com/file/d/1QwWe2EdTNhF5jLPcPG174jduhWXmOdoO/view?usp=drive_link/webcontent/images/default-source/siteicons/logopentestplus.svg?sfvrsn=ba95d8d6_10"> 
+<img height=50% width=250px src="https://drive.google.com/file/d/1QwWe2EdTNhF5jLPcPG174jduhWXmOdoO/view?usp=drive_link"> 
 
 ---
 
@@ -182,7 +182,7 @@ Here is a simple diagram representing the environment I have worked on:
 
 ## 💻 Contributing
 
-Feel free to **fork** this repository and submit a **pull request** if you want to contribute. For any questions or suggestions, [open an issue](https://github.com/your-username/your-repo-name/issues).
+Feel free to **fork** this repository and submit a **pull request** if you want to contribute. For any questions or suggestions, [open an issue](https://github.com/mohashyne/SOC-Analyst-MyDFIR/issues).
 
 ---
 
