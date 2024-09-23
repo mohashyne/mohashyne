@@ -188,10 +188,9 @@ As a **Security Operations Center (SOC) Analyst**, I will be responsible for con
 
 ## 📊 Architecture
 
-Here is a simple diagram representing the environment I have worked on:
+Here is a simple diagram representing the environments I have worked on:
 
-![SOC Analyst Architecture](https://drive.google.com/file/d/1QwWe2EdTNhF5jLPcPG174jduhWXmOdoO/view?usp=drive_link)
-<img height=50% width=250px src="https://drive.google.com/file/d/1QwWe2EdTNhF5jLPcPG174jduhWXmOdoO/view?usp=drive_link"> 
+<img height=70% width=500px src="https://github.com/user-attachments/assets/5f8b0098-04f8-4f4b-bd82-16e5308c0ed3">
 
 ---
 
