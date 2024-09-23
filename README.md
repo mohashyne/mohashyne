@@ -105,47 +105,62 @@
 -----------------------------------------------------------|
 # 🌐 SOC Analyst
 
-![GitHub repo size](https://img.shields.io/github/repo-size/mohashyne/SOC-Analyst-MyDFIR)
-![GitHub stars](https://img.shields.io/github/stars/mohashyne/SOC-Analyst-MyDFIR?style=social)
-![GitHub forks](https://img.shields.io/github/forks/mohashyne/SOC-Analyst-MyDFIR?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/mohashyne/SOC-Analyst-MyDFIR)
-![GitHub last commit](https://img.shields.io/github/last-commit/mohashyne/SOC-Analyst-MyDFIR)
+## 📈 GitHub Project Stats
+
+| **Repository**               | **Commits**                                                                 | **Size**                                                                 | **Contributors**                                                           | **Forks**                                                                 |
+|------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| **SOC Server Architecture**   | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mohashyne/SOC-Analyst-MyDFIR)  | ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/mohashyne/SOC-Analyst-MyDFIR)              | ![Contributors](https://img.shields.io/github/contributors/mohashyne/SOC-Analyst-MyDFIR)               | ![Forks](https://img.shields.io/github/forks/mohashyne/SOC-Analyst-MyDFIR)              |
+| **TCN Network Analysis**      | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/your-username/tcn-network-analysis)    | ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/tcn-network-analysis)                | ![Contributors](https://img.shields.io/github/contributors/your-username/tcn-network-analysis)                 | ![Forks](https://img.shields.io/github/forks/your-username/tcn-network-analysis?style=social)                |
+| **Malware Threat Response**   | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/your-username/malware-threat-response)  | ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/malware-threat-response)              | ![Contributors](https://img.shields.io/github/contributors/your-username/malware-threat-response)               | ![Forks](https://img.shields.io/github/forks/your-username/malware-threat-response?style=social)              |
+| **DFIR Analysis Toolkit**     | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/your-username/dfir-analysis-toolkit)    | ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/dfir-analysis-toolkit)                | ![Contributors](https://img.shields.io/github/contributors/your-username/dfir-analysis-toolkit)                 | ![Forks](https://img.shields.io/github/forks/your-username/dfir-analysis-toolkit?style=social)                |
+
 
 ## 🛡️ Overview
 
 As a **Security Operations Center (SOC) Analyst**, I will be responsible for continuously monitoring, detecting, and responding to cybersecurity incidents to protect the organization's IT infrastructure from potential threats.
 
 ---
-
-## 🚀 Key Responsibilities
+# 🚀 Key Skills
 
 ### 🔍 **Monitoring and Analysis**
-- Continuously monitor logs, security alerts, and events across systems to detect potential threats.
-- Analyze data to spot suspicious or malicious activities.
+- **Skill**: Log monitoring, threat detection, event correlation  
+- **Description**: Continuously monitor logs, security alerts, and events across systems to detect potential threats. Analyze data to spot suspicious or malicious activities.
 
 ### 🛡️ **Incident Detection and Response**
-- Detect and respond to security incidents, including unauthorized access, malware, and breaches.
-- Perform initial triage, contain threats, and mitigate damage.
+- **Skill**: Incident response, malware analysis, threat mitigation  
+- **Description**: Detect and respond to security incidents, including unauthorized access, malware, and breaches. Perform initial triage, contain threats, and mitigate damage.
 
 ### 🧠 **Threat Intelligence**
-- Stay updated with the latest cyber threats and vulnerabilities.
-- Use threat intelligence to proactively identify potential risks.
+- **Skill**: Threat intelligence, vulnerability management, proactive defense  
+- **Description**: Stay updated with the latest cyber threats and vulnerabilities. Use threat intelligence to proactively identify potential risks.
 
 ### 🕵️ **Forensic Investigation**
-- Investigate breaches, find the root cause, and document the method of attack.
-- Preserve evidence for further investigation and follow-up.
+- **Skill**: Digital forensics, incident investigation, attack attribution  
+- **Description**: Investigate breaches, find the root cause, and document the method of attack. Preserve evidence for further investigation and follow-up.
 
 ### 🛠️ **Security System Maintenance**
-- Ensure the effectiveness of security systems, including firewalls and intrusion detection systems.
-- Regularly update security configurations to stay ahead of threats.
+- **Skill**: Security configuration, firewall management, IDS/IPS tuning  
+- **Description**: Ensure the effectiveness of security systems, including firewalls and intrusion detection systems. Regularly update security configurations to stay ahead of threats.
 
 ### 🚨 **Incident Reporting and Documentation**
-- Create detailed reports on incidents and response measures.
-- Communicate findings to stakeholders for informed decision-making.
+- **Skill**: Incident reporting, technical documentation, stakeholder communication  
+- **Description**: Create detailed reports on incidents and response measures. Communicate findings to stakeholders for informed decision-making.
 
 ### ⚙️ **Collaboration**
-- Work with IT and cybersecurity teams to improve the overall security posture.
-- Participate in security drills, simulations, and incident response testing.
+- **Skill**: Team collaboration, security drills, incident simulation  
+- **Description**: Work with IT and cybersecurity teams to improve the overall security posture. Participate in security drills, simulations, and incident response testing.
+
+---
+
+## 📊 Skill Bundles and Projects
+
+| **Skill Set**                        | **Project Name**               | **Project Link**                                |
+|--------------------------------------|-------------------------------|------------------------------------------------|
+| Penetration Testing, Network Analysis | TCN Network Analysis           | [Link to project](https://github.com/user/tcn-network-analysis) |
+| Incident Response, Malware Analysis   | Malware Threat Response        | [Link to project](https://github.com/user/malware-threat-response) |
+| Digital Forensics, Attack Investigation | DFIR Analysis Toolkit         | [Link to project](https://github.com/user/dfir-analysis-toolkit) |
+| Threat Intelligence, Vulnerability Scanning | SOC Threat Intelligence      | [Link to project](https://github.com/user/soc-threat-intelligence) |
+
 
 ---
 
